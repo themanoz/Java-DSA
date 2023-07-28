@@ -19,15 +19,13 @@ public class ArraySum {
         for (int i = 0; i < arr.length; i++) {
             arr[i] = in.nextInt();
         }
-
-        ;
         System.out.println("The sum of the elements in the array: " + sumArray(arr));
     }
 
     static int sumArray(int[] arr) {
         int sum = 0;
-        for (int i = 0; i < arr.length; i++) {
-            sum = sum + arr[i];
+        for (int j : arr) {
+            sum = sum + j;
         }
         return sum;
     }
