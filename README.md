@@ -17,3 +17,14 @@ You can find the problems in the src directory of this repo.
 4. Search in 2D array
 5. Max Wealth
 6. Even Digits
+
+## Binary Search
+1. Binary Search
+2. Order Agnostic Binary Search
+
+## Binary Search Interview Questions
+
+1. Ceiling of number
+2. First and Last Positon in Sorted Array
+3. Smallest Letter
+4. Floor of number
