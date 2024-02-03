@@ -9,7 +9,8 @@ You can find the problems in the src directory of this repo.
 2. Maximum value of an array
 3. Reversing an array
 4. Array Sum
-
+### Leetcode:
+1. [Maximum consecutive ones](https://leetcode.com/problems/max-consecutive-ones/description/)
 ## Linear Search
 1. Search for an element in the array
 2. Search in a String
