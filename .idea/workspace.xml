@@ -4,29 +4,138 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16da55d0-13a8-46fc-803e-2b02de8315fc" name="Changes" comment="Hello World program" />
+    <list default="true" id="16da55d0-13a8-46fc-803e-2b02de8315fc" name="Changes" comment="DSA Problems">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Arrray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/GeeksforGeeks/myArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Jdbc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MulitdimensionalArrays/Mutlidimension.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myArrays/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/myArrays/MyArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_DSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_DSA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/SwapElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/SwapElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinearSearch/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinearSearch/Search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2TCNQ8HmsJpbY2vBw7d2W2CXOTz" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "onboarding.tips.debug.path": "/Users/manojkumarbonala/Documents/Java_DSA/src/Main.java"
+    "last_opened_file_path": "/Users/manojkumarbonala/Documents/Java_DSA",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory"
+    ]
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Jdbc">
+    <configuration name="Jdbc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Jdbc" />
+      <module name="Java_DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myArrays.Main" />
+      <module name="Java_DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="myArrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Search2DArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinearSearch.Search2DArrays" />
+      <module name="Java_DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinearSearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="new_test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinearSearch.new_test" />
+      <module name="Java_DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinearSearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="new_test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinearSearch.new_test" />
+      <module name="Java_DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LinearSearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Jdbc" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Search2DArrays" />
+        <item itemvalue="Application.new_test (1)" />
+        <item itemvalue="Application.new_test" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,7 +161,79 @@
       <option name="project" value="LOCAL" />
       <updated>1690546918889</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Hello World program">
+      <option name="closed" value="true" />
+      <created>1690547304375</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1690547304375</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Swap Elements Program">
+      <option name="closed" value="true" />
+      <created>1690548569922</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1690548569922</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Solved some more problems">
+      <option name="closed" value="true" />
+      <created>1690552791055</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1690552791055</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Solved some more problems">
+      <option name="closed" value="true" />
+      <created>1690552852947</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1690552852947</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Linear Search Problems">
+      <option name="closed" value="true" />
+      <created>1690735961769</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1690735961769</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Binary Search Problems">
+      <option name="closed" value="true" />
+      <created>1690784407250</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1690784407250</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Binary Search Interview Problems">
+      <option name="closed" value="true" />
+      <created>1690908242838</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1690908242838</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Binary Search Problem">
+      <option name="closed" value="true" />
+      <created>1690908415581</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1690908415581</updated>
+    </task>
+    <task id="LOCAL-00011" summary="DSA Problems">
+      <option name="closed" value="true" />
+      <created>1691054316690</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1691054316690</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -69,6 +250,41 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git commit -m &quot;Upload to Github&quot;" />
     <MESSAGE value="Hello World program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hello World program" />
+    <MESSAGE value="Swap Elements Program" />
+    <MESSAGE value="Solved some more problems" />
+    <MESSAGE value="Linear Search Problems" />
+    <MESSAGE value="Binary Search Problems" />
+    <MESSAGE value="Binary Search Interview Problems" />
+    <MESSAGE value="Binary Search Problem" />
+    <MESSAGE value="DSA Problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="DSA Problems" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BinarySearch/orderAgnosticBS.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BSInterveiwQuestions/searchInsert.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LinearSearch/Search2DArrays.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java_DSA$Age.ic" NAME="Age Coverage Results" MODIFIED="1701676920927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

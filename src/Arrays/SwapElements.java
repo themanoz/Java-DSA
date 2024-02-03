@@ -3,10 +3,10 @@ import java.util.*;
 
 public class SwapElements {
 
-    public static void swap(int[] arr, int i1, int i2){
-        int temp = arr[i1];
-        arr[i1] = arr[i2];
-        arr[i2] =temp;
+    public static void swap(int[] arr, int num1, int num2){
+        int temp = arr[num1];
+        arr[num1] = arr[num2];
+        arr[num2] =temp;
     }
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

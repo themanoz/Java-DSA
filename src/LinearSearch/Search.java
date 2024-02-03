@@ -2,9 +2,8 @@ package LinearSearch;
 
 public class Search {
     public static void main(String[] args) {
-        int[] arr = new int[]{1,5,3,6,7,2};
-
-        int target = 2;
+        int[] arr = new int[]{1,5,3,8,6,7,2};
+        int target = 6;
         System.out.println(search(arr,target));
 
     }
