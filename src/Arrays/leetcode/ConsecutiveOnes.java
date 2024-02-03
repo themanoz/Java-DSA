@@ -1,6 +1,6 @@
 package Arrays.leetcode;
 
-public class Solution {
+public class ConsecutiveOnes {
     public static void main(String[] args) {
         int[] arr = new int[]{1,1,0,1,1,1};
         System.out.println(findMaxConsecutiveOnes(arr));

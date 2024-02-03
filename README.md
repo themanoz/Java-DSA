@@ -11,6 +11,7 @@ You can find the problems in the src directory of this repo.
 4. Array Sum
 ### Leetcode:
 1. [Maximum consecutive ones](https://leetcode.com/problems/max-consecutive-ones/description/)
+2. [Longest continuous increasing subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/description/)
 ## Linear Search
 1. Search for an element in the array
 2. Search in a String
