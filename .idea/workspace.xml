@@ -5,20 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16da55d0-13a8-46fc-803e-2b02de8315fc" name="Changes" comment="DSA Problems">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Arrray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/GeeksforGeeks/myArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Jdbc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MulitdimensionalArrays/Mutlidimension.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myArrays/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/myArrays/MyArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/leetcode/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_DSA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_DSA.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/SwapElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/SwapElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LinearSearch/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinearSearch/Search.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,25 +36,25 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/manojkumarbonala/Documents/Java_DSA",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/manojkumarbonala/Documents/Java_DSA&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;
     ]
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Jdbc">
+}</component>
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="Jdbc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Jdbc" />
       <module name="Java_DSA" />
@@ -100,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="new_test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinearSearch.new_test" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.leetcode.Solution" />
       <module name="Java_DSA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LinearSearch.*" />
+          <option name="PATTERN" value="Arrays.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,7 +101,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="new_test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="new_test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LinearSearch.new_test" />
       <module name="Java_DSA" />
       <extension name="coverage">
@@ -128,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Jdbc" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Search2DArrays" />
         <item itemvalue="Application.new_test (1)" />
-        <item itemvalue="Application.new_test" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +229,24 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
