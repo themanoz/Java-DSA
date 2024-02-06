@@ -5,11 +5,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16da55d0-13a8-46fc-803e-2b02de8315fc" name="Changes" comment="DSA Problems">
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch/Binary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch/Matrix/SearchinTwoD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch/Matrix/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SelectionSort/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_30.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_DSA.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/ArraySum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/Arrray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/GeeksforGeeks/myArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/MaximumValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/ReverseOfArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/SwapElements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/leetcode/ConsecutiveOnes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/leetcode/ContinuesIncreasingSubSequence.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BSInterveiwQuestions/Ceiling.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BSInterveiwQuestions/FirstAndLastPosition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BSInterveiwQuestions/Floor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BSInterveiwQuestions/InfiniteArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BSInterveiwQuestions/MountainArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BSInterveiwQuestions/SearchInMountain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BSInterveiwQuestions/SmallestNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BSInterveiwQuestions/searchInsert.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinarySearch/Binary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinarySearch/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinarySearch/Matrix/CountNegatives.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinarySearch/Matrix/SearchinTwoD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinarySearch/orderAgnosticBS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Jdbc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinearSearch/EvenDigits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinearSearch/MaxWealth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinearSearch/MinimumNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinearSearch/Search.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinearSearch/Search2DArrays.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinearSearch/SearchInRange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinearSearch/SearchInString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MulitdimensionalArrays/Mutlidimension.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myArrays/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/myArrays/MyArray.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,24 +142,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.leetcode.Solution" />
-      <module name="Java_DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Arrays.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EvenDigits" />
         <item itemvalue="Application.ContinuesIncreasingSubSequence" />
-        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.EvenDigits" />
         <item itemvalue="Application.Jdbc" />
         <item itemvalue="Application.Main" />
       </list>
@@ -290,15 +314,10 @@
           <line>12</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/BinarySearch/Matrix/SearchinTwoD.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/BinarySearch/Matrix/Solution.java</url>
+          <url>file://$PROJECT_DIR$/src/BinarySearch/Matrix/CountNegatives.java</url>
           <line>12</line>
-          <properties class="BinarySearch.Matrix.Solution" method="countNegatives">
+          <properties class="BinarySearch.Matrix.CountNegatives" method="countNegatives">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
