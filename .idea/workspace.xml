@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16da55d0-13a8-46fc-803e-2b02de8315fc" name="Changes" comment="DSA Problems">
-      <change afterPath="$PROJECT_DIR$/src/BubbleSort/bubble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Insertion/Insertion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyclicSort/Cyclic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyclicSort/FindDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyclicSort/FindMissingNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CyclicSort/MissingNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -291,6 +293,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/CyclicSort/MissingNumber.java</url>
+          <line>6</line>
+          <properties class="CyclicSort.MissingNumber" method="missingNumber">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
