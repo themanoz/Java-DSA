@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16da55d0-13a8-46fc-803e-2b02de8315fc" name="Changes" comment="DSA Problems">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Duplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MulitdimensionalArrays/GCD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MulitdimensionalArrays/Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MulitdimensionalArrays/SecSmallest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/String/Comparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Imaginnovate/Duplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Imaginnovate/EligibleForVote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Imaginnovate/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Imaginnovate/GCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Imaginnovate/KthPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Imaginnovate/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Imaginnovate/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Imaginnovate/secSmallest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/ReverseOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/ReverseOfArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -313,6 +315,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Imaginnovate/EligibleForVote.java</url>
+          <line>6</line>
+          <properties class="Imaginnovate.EligibleForVote" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
