@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16da55d0-13a8-46fc-803e-2b02de8315fc" name="Changes" comment="DSA Problems">
-      <change afterPath="$PROJECT_DIR$/src/CyclicSort/Cyclic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CyclicSort/FindDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CyclicSort/FindMissingNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CyclicSort/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Duplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MulitdimensionalArrays/GCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MulitdimensionalArrays/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MulitdimensionalArrays/SecSmallest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/String/Comparison.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/ReverseOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/ReverseOfArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +48,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/manojkumarbonala/Documents/Java_DSA&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
@@ -302,6 +304,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/MulitdimensionalArrays/GCD.java</url>
+          <line>9</line>
+          <properties class="MulitdimensionalArrays.GCD" method="gcd">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class ReverseOfArray {
     public static void main(String[] args) {
 
-        int[] arr = new int[] {1,3,5,2,7};
+        int[] arr = new int[] {1,3,5,2,7,234,1234};
         reverse(arr);
         System.out.println(Arrays.toString(arr));
     }
